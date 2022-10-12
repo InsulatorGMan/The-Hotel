@@ -8,4 +8,4 @@
  RoomInfo module format is ['ROOMNAME"] = {
    ["Direction"] = "Left",
    ["IsStairs"] = false
-* }
+ }
